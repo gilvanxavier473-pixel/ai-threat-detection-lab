@@ -1,0 +1,14 @@
+{
+  "prompt_injection": {
+    "severity": "MEDIUM",
+    "enabled": true
+  },
+  "command_execution": {
+    "severity": "HIGH",
+    "enabled": true
+  },
+  "unauthorized_access": {
+    "severity": "HIGH",
+    "enabled": true
+  }
+}
